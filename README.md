@@ -1,3 +1,6 @@
+![header](https://capsule-render.vercel.app/api?type=waving&color=E3826C&height=250&section=header&text=SeongIk Han%20Song&fontSize=90&animation=fadeIn&fontAlignY=38&desc=%20&descAlignY=62&descAlign=62)
+
+
 ### 👋 Hello, I'm Seong Ik Han, the developer of the full stack.
 ### 🏃 I'm moving toward becoming a developer who will change the world.
 
