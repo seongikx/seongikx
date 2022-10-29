@@ -25,7 +25,7 @@
 
 
 
-## 💡 Misc
+## 🎸 Misc
 
 !![Seongikx's GitHub stats](https://github-readme-stats.vercel.app/api?username=seongikx&show_icons=true&theme=radical)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seongikx&layout=compact&theme=dark&exclude_repo=Madcamp01)](https://github.com/anuraghazra/github-readme-stats)
