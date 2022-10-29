@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=79EDFF&height=250&section=header&text=Seongik%20Han&fontSize=90&animation=fadeIn&fontAlignY=38&desc=%20&descAlignY=62&descAlign=62)
 
-# HI
+# Hello , world !
 
 ### 👋 I'm Seong Ik Han, the developer of the full stack.
 ### 🏃 I'm moving toward becoming a developer who will change the world.
