@@ -23,6 +23,7 @@
   <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=white" /> <img src="https://img.shields.io/badge/MacOS-000000?style=flat&logo=macos&logoColor=white" /> <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" /> <img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=notion&logoColor=white" /> <img src="https://img.shields.io/badge/MySql-4479A1?style=flat&logo=Mysql&logoColor=white" /> 
 
 
+## ✏️ Study
 
 
 ## 🎸 Misc
