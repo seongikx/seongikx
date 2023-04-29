@@ -7,7 +7,7 @@
 
 
 준비 **준비**  <sub><sup>BE Engineering (2)</sup></sub>   
-**우아한형제들**  <sub><sup>웹 벡엔드 5기  (2022.10.25~)</sup></sub>  
+****  <sub><sup>  </sup></sub>  
 **부산대학교 IT응용공학과**  <sub><sup> (2019.. ~ 20)</sup></sub>  
 
 ## 🛠 Tech Stack
