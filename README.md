@@ -1,14 +1,11 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=79EDFF&height=250&section=header&text=Seongik%20Han&fontSize=90&animation=fadeIn&fontAlignY=38&desc=%20&descAlignY=62&descAlign=62)
 
-# Hello , world !
+# 🚧 재정비 중입니다!
 
-### 👋 I'm Seong Ik Han, the developer of the full stack.
-### 🏃 I'm moving toward becoming a developer who will change the world.
+### ⚔️ 개발자를 위해
+### 🏃 달리는중
 
-
-준비 **준비**  <sub><sup>BE Engineering (2)</sup></sub>   
-****  <sub><sup>  </sup></sub>  
-**부산대학교 IT응용공학과**  <sub><sup> (2019.. ~ 20)</sup></sub>  
+**부산대학교 IT응용공학과 학회장 **  <sub><sup> (2019.. ~ 20)</sup></sub>  
 
 ## 🛠 Tech Stack
 
