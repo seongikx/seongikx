@@ -2,7 +2,7 @@
 
 # 🙃 
 
-** **  <sub><sup> (2019. ~ ) Pusan National University </sup></sub>  
+**Pusan National University**  <sub><sup> (2019. ~ ) </sup></sub>  
 
 ## 🛠 Tech Stack
 
